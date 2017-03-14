@@ -146,6 +146,7 @@
     <ClCompile Include="first.c" />
     <ClCompile Include="friends.c" />
     <ClCompile Include="name1.c" />
+    <ClCompile Include="name2.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
